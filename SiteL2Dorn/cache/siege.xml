@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siege>
+<configs>
+<atualstudio>Cache script by Atualstudio.com</atualstudio>
+<updated>1503464142</updated>
+</configs>
+<line>
+<castle>Aden</castle>
+<owner>SmokeWeeD</owner>
+<leader>MariaSagapaw</leader>
+<ally>No Alliance</ally>
+<nextwar>02 September, 2017 18:00</nextwar>
+<tax>0</tax>
+<attacks>1</attacks>
+<attacksname>Anarchy</attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Dion</castle>
+<owner>V1P</owner>
+<leader>HuLiGuN</leader>
+<ally>Greece</ally>
+<nextwar>02 September, 2017 18:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Giran</castle>
+<owner>MakeMeLaugh</owner>
+<leader>SeeYaa</leader>
+<ally>v3pOwEr</ally>
+<nextwar>02 September, 2017 18:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Gludio</castle>
+<owner>WeMakeTheRuleS</owner>
+<leader>RunOrDie</leader>
+<ally>EmerLanD</ally>
+<nextwar>02 September, 2017 18:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Goddard</castle>
+<owner>R1sK4Life</owner>
+<leader>SleepLord</leader>
+<ally>AlwaysPreSent</ally>
+<nextwar>27 August, 2017 18:00</nextwar>
+<tax>15</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Innadril</castle>
+<owner>WarNeverEND</owner>
+<leader>KoBam</leader>
+<ally>WNE2017</ally>
+<nextwar>27 August, 2017 18:00</nextwar>
+<tax>15</tax>
+<attacks>1</attacks>
+<attacksname>Againt</attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Oren</castle>
+<owner>lPayBackTime</owner>
+<leader>ScarLett</leader>
+<ally>Vendetta</ally>
+<nextwar>02 September, 2017 18:00</nextwar>
+<tax>15</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Rune</castle>
+<owner>MosTTopClan</owner>
+<leader>CrazyMage</leader>
+<ally>MosTALLY</ally>
+<nextwar>27 August, 2017 18:00</nextwar>
+<tax>15</tax>
+<attacks>2</attacks>
+<attacksname>Fighters, Draugai</attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Schuttgart</castle>
+<owner>Yakuza</owner>
+<leader>LordSasuke</leader>
+<ally>TeamBrasil</ally>
+<nextwar>27 August, 2017 18:00</nextwar>
+<tax>15</tax>
+<attacks>2</attacks>
+<attacksname>Terror, TheKillerS</attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+</siege>

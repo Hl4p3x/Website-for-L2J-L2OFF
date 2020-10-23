@@ -1,0 +1,24 @@
+[22-Jun-2019 16:04:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lorigins/public_html/vote/instalacao.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lorigins/public_html/vote/instalacao.php on line 14
+[22-Jun-2019 16:06:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lorigins/public_html/vote/instalacao.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lorigins/public_html/vote/instalacao.php on line 14
+[22-Jun-2019 16:18:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lorigins/public_html/vote/instalacao.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lorigins/public_html/vote/instalacao.php on line 14
+[22-Jun-2019 16:20:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lorigins/public_html/vote/instalacao.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lorigins/public_html/vote/instalacao.php on line 14
+[22-Jun-2019 16:23:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lorigins/public_html/vote/instalacao.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lorigins/public_html/vote/instalacao.php on line 14
+[22-Jun-2019 16:27:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lorigins/public_html/vote/instalacao.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lorigins/public_html/vote/instalacao.php on line 14

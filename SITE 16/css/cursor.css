@@ -1,0 +1,15 @@
+/* --- Não remova os direitos autorais! --- /*
+	------------------------------------------------------------------------------------------------
+	Feito por:	Fábio - l2jbrasil.com
+
+	Conteúdo::
+		body = toda a pagina do site que nao contenha link's será o cursor comum do lineage
+		a = quando passar o mouse em sima de um link automaticamente trocará para o cursor de ataque do lineage
+*/
+
+body {
+cursor: url('cursors/cursor.cur'), auto;
+}
+a {
+cursor: url('cursors/hand.cur'), auto;
+}

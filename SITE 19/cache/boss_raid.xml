@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boss>
+<configs>
+<atualstudio>Cache script by Atualstudio.com</atualstudio>
+<updated>1568774979</updated>
+</configs>
+<line>
+<name>Fenril Hound Freki</name>
+<level>84</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fenril Hound Kerinne</name>
+<level>84</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fenril Hound Kinaz</name>
+<level>84</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fenril Hound Uruz</name>
+<level>84</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Wings of Flame Ixion</name>
+<level>84</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ember</name>
+<level>80</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ketra's Commander Tayr</name>
+<level>80</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ketra's Hero Hekaton</name>
+<level>80</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Queen Shyeed</name>
+<level>80</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Sailren</name>
+<level>80</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Uruka</name>
+<level>80</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Varka's Commander Mos</name>
+<level>80</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Varka's Hero Shadith</name>
+<level>80</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Cherub Galaxia</name>
+<level>79</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Longhorn Golkonda</name>
+<level>79</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fire of Wrath Shuriel</name>
+<level>78</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Hestia Guardian Deity of the Hot Springs</name>
+<level>78</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Last Lesser Giant Glaki</name>
+<level>78</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Flamestone Giant</name>
+<level>76</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ocean Flame Ashakiel</name>
+<level>76</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Bloody Empress Decarbia</name>
+<level>75</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Death Lord Ipos</name>
+<level>75</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Death Lord Shax</name>
+<level>75</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Kernon</name>
+<level>75</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Last Lesser Giant Olkuth</name>
+<level>75</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Palatanos of Horrific Power</name>
+<level>75</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Storm Winged Naga</name>
+<level>75</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Antharas Priest Cloe</name>
+<level>74</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Krokian Padisha Sobekk</name>
+<level>74</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Death Lord Hallate</name>
+<level>73</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Plague Golem</name>
+<level>73</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Doom Blade Tanatos</name>
+<level>72</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Vanor Chief Kandra</name>
+<level>72</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Water Dragon Seer Sheshark</name>
+<level>72</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Eilhalder von Hellmann</name>
+<level>71</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Immortal Savior Mardil</name>
+<level>71</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Anakim's Nemesis Zakaron</name>
+<level>70</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Beast Lord Behemoth</name>
+<level>70</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fafurion's Herald Lokness</name>
+<level>70</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Flame of Splendor Barakiel</name>
+<level>70</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Korim</name>
+<level>70</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Meanas Anor</name>
+<level>70</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Roaring Skylancer</name>
+<level>70</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Shilen's Messenger Cabrio</name>
+<level>70</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Bloody Priest Rudelto</name>
+<level>69</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Spirit of Andras the Betrayer</name>
+<level>69</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Kernon's Faithful Servant Kelone</name>
+<level>67</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Demon's Agent Falston</name>
+<level>66</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Last Titan Utenus</name>
+<level>66</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Enmity Ghost Ramdal</name>
+<level>65</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fierce Tiger King Angel</name>
+<level>65</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Gargoyle Lord Tiphon</name>
+<level>65</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Hekaton Prime</name>
+<level>65</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Rahha</name>
+<level>65</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Shilen's Priest Hisilrome</name>
+<level>65</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Gorgolos</name>
+<level>64</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Roaring Lord Kastor</name>
+<level>62</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fairy Queen Timiniel</name>
+<level>61</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ancient Weird Drake</name>
+<level>60</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ghost of the Well Lidia</name>
+<level>60</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Giant Marpanak</name>
+<level>60</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Guardian of the Statue of Giant Karum</name>
+<level>60</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Lord Ishka</name>
+<level>60</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Taik High Prefect Arak</name>
+<level>60</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>The 3rd Underwater Guardian</name>
+<level>60</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Abyss Brukunt</name>
+<level>59</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Captain of the Ice Queen's Royal Guard</name>
+<level>59</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Demon Kurikups</name>
+<level>59</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Soulless Wild Boar</name>
+<level>59</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Eva's Guardian Millenu</name>
+<level>58</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Timak Seer Ragoth</name>
+<level>57</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Harit Guardian Garangky</name>
+<level>56</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Refugee Hopeful Leo</name>
+<level>56</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Bandit Leader Barda</name>
+<level>55</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Beleth's Seer Sephia</name>
+<level>55</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Black Lily</name>
+<level>55</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Enchanted Forest Watcher Ruell</name>
+<level>55</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Eva's Spirit Niniel</name>
+<level>55</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Furious Thieles</name>
+<level>55</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ghost Knight Kabed</name>
+<level>55</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Harit Hero Tamash</name>
+<level>55</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Pagan Watcher Cerberon</name>
+<level>55</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Sorcerer Isirr</name>
+<level>55</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Zaken's Butcher Krantz</name>
+<level>55</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Paniel the Unicorn</name>
+<level>54</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Atraiban</name>
+<level>53</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Dark Shaman Varangka</name>
+<level>53</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Magus Kenishee</name>
+<level>53</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Captain of Red Flag Shaka</name>
+<level>52</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fafurion's Envoy Pingolpin</name>
+<level>52</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Grave Robber Kim</name>
+<level>52</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Deadman Ereve</name>
+<level>51</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Verfa</name>
+<level>51</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Carnage Lord Gato</name>
+<level>50</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Cursed Clara</name>
+<level>50</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ghost of Peasant Leader</name>
+<level>50</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Lilith's Witch Marilion</name>
+<level>50</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Messenger of Fairy Queen Berun</name>
+<level>50</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Zaken's Chief Mate Tillion</name>
+<level>50</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Karte</name>
+<level>49</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Katu Van Leader Atui</name>
+<level>49</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Mirror of Oblivion</name>
+<level>49</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>King Tarlk</name>
+<level>48</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Orfen's Handmaiden</name>
+<level>48</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Barion</name>
+<level>47</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Necrosentinel Royal Guard</name>
+<level>47</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Archon Suscepter</name>
+<level>45</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Biconne of Blue Sky</name>
+<level>45</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Evil Spirit Cyrion</name>
+<level>45</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fafurion's Henchman Istary</name>
+<level>45</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Iron Giant Totem</name>
+<level>45</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Shacram</name>
+<level>45</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Tiger King Karuta</name>
+<level>45</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Timak Orc Gosmos</name>
+<level>45</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Dread Avenger Kraven</name>
+<level>44</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Flamestone Golem</name>
+<level>44</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Rotten Tree Repiro</name>
+<level>44</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Thief Kelbar</name>
+<level>44</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Timak Orc Chief Ranger</name>
+<level>44</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Crazy Mechanic Golem</name>
+<level>43</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Earth Protector Panathen</name>
+<level>43</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Retreat Spider Cletu</name>
+<level>42</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fafurion's Page Sika</name>
+<level>40</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Gwindorr</name>
+<level>40</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Icarus Sample 1</name>
+<level>40</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Leto Chief Talkin</name>
+<level>40</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Nakondas</name>
+<level>40</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Road Scavenger Leader</name>
+<level>40</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Shaman King Selu</name>
+<level>40</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Water Couatle Ateka</name>
+<level>40</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Water Spirit Lian</name>
+<level>40</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Wizard of Storm Teruk</name>
+<level>40</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Leader of Cat Gang</name>
+<level>39</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Nellis' Vengeful Spirit</name>
+<level>39</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Lizardmen Leader Hellion</name>
+<level>38</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Premo Prime</name>
+<level>38</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Rayito the Looter</name>
+<level>37</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Evil Spirit Tempest</name>
+<level>36</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Sebek</name>
+<level>36</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Chertuba of Great Soul</name>
+<level>35</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Eye of Beleth</name>
+<level>35</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Flame Lord Shadar</name>
+<level>35</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Gargoyle Lord Sirocco</name>
+<level>35</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Guilotine Warden of the Execution Grounds</name>
+<level>35</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Red Eye Captain Trakia</name>
+<level>35</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Remmel</name>
+<level>35</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Sejarr's Servitor</name>
+<level>35</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Soul Collector Acheron</name>
+<level>35</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Tasaba Patriarch Hellena</name>
+<level>35</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Breka Warlock Pastu</name>
+<level>34</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Cronos's Servitor Mumu</name>
+<level>34</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Revenant of Sir Calibus</name>
+<level>34</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Stakato Queen Zyrnna</name>
+<level>34</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Corsair Captain Kylon</name>
+<level>33</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Nurka's Messenger</name>
+<level>33</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Vuku Grand Seer Gharmash</name>
+<level>33</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Captain of Queen's Royal Guards</name>
+<level>32</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Skyla</name>
+<level>32</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Agent of Beres Meana</name>
+<level>30</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Apepi</name>
+<level>30</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Boss Akata</name>
+<level>30</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Cat's Eye Bandit</name>
+<level>30</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Giant Wasteland Basilisk</name>
+<level>30</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ragraman</name>
+<level>30</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Turek Mercenary Captain</name>
+<level>30</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Elf Renoa</name>
+<level>29</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Partisan Leader Talakin</name>
+<level>28</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Tirak</name>
+<level>28</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Patriarch Kuroboros</name>
+<level>26</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Tiger Hornet</name>
+<level>26</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Betrayer of Urutu Freki</name>
+<level>25</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ikuntai</name>
+<level>25</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Mammon Collector Talos</name>
+<level>25</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Pan Dryad</name>
+<level>25</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Princess Molrang</name>
+<level>25</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Soul Scavenger</name>
+<level>25</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Zombie Lord Crowl</name>
+<level>25</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Langk Matriarch Rashkos</name>
+<level>24</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Unrequited Kael</name>
+<level>24</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Kuroboros' Priest</name>
+<level>23</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Tracker Leader Sharuk</name>
+<level>23</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Kaysha Herald of Icarus</name>
+<level>21</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Malex Herald of Dagoniel</name>
+<level>21</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Serpent Demon Bifrons</name>
+<level>21</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Sukar Wererat Chief</name>
+<level>21</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Discarded Guardian</name>
+<level>20</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Madness Beast</name>
+<level>20</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Zombie Lord Farakelsus</name>
+<level>20</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+</boss>

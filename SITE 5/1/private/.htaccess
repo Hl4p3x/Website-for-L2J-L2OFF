@@ -1,0 +1,5 @@
+Options -Indexes
+deny from all
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://l2horus.com/$1 [R,L]

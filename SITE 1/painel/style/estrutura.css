@@ -1,0 +1,62 @@
+*{margin:0; padding:0;}
+
+body{
+	background:#333333;
+}
+
+#box{
+	width:360px;
+	margin:0 auto;
+}
+
+#login{
+	width:360px;
+	height:330px;
+	background:url(../img/bg_login.png) no-repeat;
+	margin:230px 0px 10px 0px;
+	color:#FFF;
+	font-weight:bold;
+}
+
+#logo{
+	margin:30px 30px;
+	float:left;
+}
+
+#conteudo{
+	width:300px;
+	height:200px;
+	float:left;
+	margin:10px 25px;
+}
+
+#login #usuario{
+	width:258px;
+	height:33px;
+	background:url(../img/bg_input.png) no-repeat;
+	border:none;
+	padding:0px 0px 0px 25px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#login #senha{
+	width:253px;
+	height:33px;
+	background:url(../img/bg_senha.png) no-repeat;
+	border:none;
+	padding:0px 0px 0px 30px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#login #button{
+	width:109px;
+	height:35px;
+	border:none;
+	background-image:url(../img/bg_bottom.jpg);
+	cursor:pointer;
+}
+
+#login #sele{
+	border:1px solid #333;
+	width:100px;
+}

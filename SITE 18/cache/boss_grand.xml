@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boss>
+<configs>
+<atualstudio>Cache script by Atualstudio.com</atualstudio>
+<updated>1570386010</updated>
+</configs>
+<line>
+<name>Antharas</name>
+<level>85</level>
+<status>Morto</status>
+<respawn>13/10/2019 17:53</respawn>
+</line>
+<line>
+<name>Baium</name>
+<level>75</level>
+<status>Morto</status>
+<respawn>13/10/2019 02:27</respawn>
+</line>
+<line>
+<name>Frintezza</name>
+<level>85</level>
+<status>Morto</status>
+<respawn>07/10/2019 13:55</respawn>
+</line>
+<line>
+<name>Valakas</name>
+<level>85</level>
+<status>Morto</status>
+<respawn>07/10/2019 13:55</respawn>
+</line>
+<line>
+<name>Baylor</name>
+<level>83</level>
+<status>Morto</status>
+<respawn>07/10/2019 13:55</respawn>
+</line>
+<line>
+<name>Andreas Van Halter</name>
+<level>80</level>
+<status>Morto</status>
+<respawn>07/10/2019 13:55</respawn>
+</line>
+<line>
+<name>Sailren</name>
+<level>80</level>
+<status>Morto</status>
+<respawn>07/10/2019 13:55</respawn>
+</line>
+<line>
+<name>Zaken</name>
+<level>60</level>
+<status>Morto</status>
+<respawn>07/10/2019 13:55</respawn>
+</line>
+<line>
+<name>Core</name>
+<level>50</level>
+<status>Morto</status>
+<respawn>07/10/2019 13:55</respawn>
+</line>
+<line>
+<name>Orfen</name>
+<level>50</level>
+<status>Morto</status>
+<respawn>07/10/2019 13:55</respawn>
+</line>
+<line>
+<name>Queen Ant</name>
+<level>40</level>
+<status>Morto</status>
+<respawn>07/10/2019 13:55</respawn>
+</line>
+</boss>

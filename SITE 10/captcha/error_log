@@ -1,0 +1,2 @@
+[20-Oct-2017 20:27:37 America/Sao_Paulo] PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /home/lavarkas/public_html/captcha/securimage.php on line 124
+[20-Oct-2017 20:27:37 America/Sao_Paulo] PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /home/lavarkas/public_html/captcha/securimage.php on line 124

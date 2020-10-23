@@ -1,0 +1,102 @@
+As configurações necessárias para o funcionamento do sistema estão no arquivo "private/configs.php". Sempre quando dizermos "arquivo configs" ou apenas "configs" estamos nos referindo a ele.
+A pasta "logs" presente dentro desta mesma pasta ipn contém todos os registros de notificações recebidas, bem ou má sucedidas.
+
+
+##################################################################################################
+################# IMPORTANTE #####################################################################
+
+É importante que esta pasta ipn e todas as sub-pastas e arquivos possuam permissão 755.
+
+Renomeie os arquivo de recebimento IPN de forma que apenas você saiba os nomes deles.
+Exemplo: "pagseguro_AAAAAAAA", ao invés do "AAAAAAAA" insira caracteres aleatórios: "pagseguro_N98Y0S67AS".
+
+
+##################################################################################################
+##################################################################################################
+
+
+Para que qualquer um dos módulos funcione, é necessário habilitar o envio de notificações e configurar corretamente. Siga os passos abaixo:
+
+----------------------------------------------------------------------------------------------------------
+
+# PagSeguro
+1 - Acesse sua conta no site pagseguro.uol.com.br
+2 - Clique em "Minha Conta". Depois, no menu lateral esquerdo, vá em "Preferências > Integrações".
+3 - Gere um token clicando no botão "Gerar token" e insira no arquivo configs.
+4 - Na opção "Notificação de transação", insira o caminho de acesso ao arquivo secreto do PagSeguro. Ele está contido nesta mesma pasta (pasta ipn). Exemplo: http://www.seusite.com/ipn/pagseguro_XXXXXXXXX.php
+>> CUIDADO! Não confunda "Notificação de transação" com "Página de redirecionamento"! O url acima NÃO deve ser inserido em "Página de redirecionamento"!
+5 - Habilite "Pagamento via Formulário HTML". NÃO ative "Pagamento via API".
+6 - Certifique-se de que no arquivo configs, a variável $PagSeguro['testando'] está igual a 0. Dessa forma: $PagSeguro['testando'] = 0;
+7 - Caso queira habilitar a "Página de redirecionamento" para que os usuários retornem ao seu site após pagar, insira o endereço do seu site no campo "Página de redirecionamento fixa".
+8 - Faça bom uso!
+
+# Utilizando o ambiente de teste no PagSeguro:
+1 - Visite sandbox.pagseguro.uol.com.br e acesse sua conta
+2 - Vá no menu lateral esquerdo em Perfis de "Integração > Vendedor".
+3 - Copie o token e insira no arquivo configs, na opção de token do sandbox.
+4 - No arquivo configs, defina $PagSeguro['testando'] = 1;
+5 - Na página "Perfis de integração > Vendedor", em "Notificação de transações", insira o URL do arquivo secreto do PagSeguro.
+6 - Agora teste! Crie um pedido de doação em seu site utilizando o PagSeguro e clique em pagar, você será redirecionado para a página de confirmação Sandbox. Selecione o meio de pagamento via Boleto (que é mais rápido), insira seu CPF e confirme a compra.
+7 - Após confirmar, surgirá uma tela que possibilitará de definir a transação como paga. Defina-a! Após isso, aguarde alguns instantes e a doação estará paga no seu site.
+8 - Caso a tela citada no passo 7 não apareça, volte ao seu painel sandbox, vá no menu lateral esquerdo em "Meu Sandbox > Transações" e clique na transação que foi feita. Aparecerão os detalhes da transação e, dependendo do status, existirá a opção "alterar" ao lado do Status. Clique nessa opção e modifique para "Paga" para testar a entrega.
+
+----------------------------------------------------------------------------------------------------------
+
+# PayPal:
+1 - Acesse sua sua conta no site www.paypal.com
+2 - Clique na opção "Perfil", no menu, depois clique em "Minhas ferramentas de venda".
+3 - Procure por "Notificações de pagamento instantâneo", clique na opção "Atualizar" ao lado.
+4 - Configure o NIP clicando no botão "Escolher configurações de NIP".
+5 - Em "URL da notificação" insira o caminho de acesso ao arquivo secreto do PayPal. Ele está contido nesta mesma pasta (pasta ipn). Exemplo: http://www.seusite.com/ipn/paypal_XXXXXXXXX.php
+6 - Ative o recebimento de NIP selecionando "Receber mensagens de NIP (ativado)".
+7 - Clique em Salvar e faça bom uso!
+
+# Utilizando o ambiente de teste no PayPal:
+1 - No arquivo configs, defina $PayPal['testando'] = 1;
+2 - Vá em seu site, crie um pedido de doação utilizando o PayPal e copie o protocolo gerado.
+3 - Visite developer.paypal.com e acesse sua conta.
+4 - Clique em Dashboard, no menu do topo.
+5 - Vá no menu lateral em "Sandbox > IPN Simulator".
+6 - Em "IPN handler URL", insira o caminho de acesso ao arquivo secreto do PayPal.
+7 - Em "Transaction type", selecione "eCheck - complete" e em "paypment_status" deixe "Completed". Todos os outros campos devem permanecer os valores padrões, com exceção do campo "custom".
+8 - Insira o protocolo da doação gerada no campo "custom".
+9 - Clique no botão "Send IPN" e aguarde. Se ocorrer tudo bem, surgirá a mensagem "IPN Sent Successfully".
+
+----------------------------------------------------------------------------------------------------------
+
+# MercadoPago:
+1 - Cadastre uma conta Vendedor no site www.mercadopago.com
+2 - Obtenha seu CLIENT_ID e CLIENT_SECRET através da página https://www.mercadopago.com/mlb/account/credentials?type=basic ou https://www.mercadopago.com/mlb/ferramentas/aplicacoes
+3 - Insira o CLIENT_ID e CLIENT_SECRET no arquivo configs.
+4 - Acesse https://www.mercadopago.com.br/ipn-notifications, insira o URL do arquivo secreto do MercadoPago, selecione o campo "pagamento" ou "payment" e salve. "merchant_order" ou qualquer outro não é necessário.
+5 - Faça bom uso!
+
+# Utilizando o ambiente de teste do MercadoPago:
+1 - No arquivo configs, defina $MercadoPago['testando'] = 1;
+2 - Gere uma fatura e clique em pagar.
+3 - Insira um e-mail qualquer (com exceção do seu e-mail de vendedor).
+4 - No meio de pagamento, selecione "cartão de crédito" e insira o número de cartão: 4444 4444 4444 0008 ou 5031 1111 1111 6619
+5 - Selecione uma validade futura, insira 123 no "Código de Segurança" e preencha com valores aleatórios os outros campos, mas insira um CPF válido (o seu, por exemplo).
+6 - Confirme o pagamento. Surgirá uma mensagem solicitando confirmação do cartão pelo banco, clique em "Já liguei o banco e autorizei o pagamento".
+
+----------------------------------------------------------------------------------------------------------
+
+
+Desenvolvido por Atualstudio
+
+          ##########
+       ################
+    ######          ######
+   #####              #####
+  ####         ....    ####
+ ####        ########  ####
+ ####       ########## ####
+  ####      ########## ####
+  #####       ######## ####
+   #####        ****** ####
+     ######################
+         ################
+
+www.atualstudio.com
+contato@atualstudio.com
+Skype: atualstudio

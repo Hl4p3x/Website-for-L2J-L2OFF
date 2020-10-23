@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boss>
+<configs>
+<atualstudio>Cache script by Atualstudio.com</atualstudio>
+<updated>1568774979</updated>
+</configs>
+<line>
+<name>Sailren</name>
+<level>80</level>
+<status>Morto</status>
+<respawn>18/09/2019 06:20</respawn>
+</line>
+<line>
+<name>Andreas Van Halter</name>
+<level>80</level>
+<status>Morto</status>
+<respawn>18/09/2019 05:16</respawn>
+</line>
+<line>
+<name>Baium</name>
+<level>75</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Core</name>
+<level>50</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Orfen</name>
+<level>50</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Queen Ant</name>
+<level>40</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Antharas</name>
+<level>85</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Frintezza</name>
+<level>85</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Valakas</name>
+<level>85</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Baylor</name>
+<level>83</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Zaken</name>
+<level>60</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+</boss>
